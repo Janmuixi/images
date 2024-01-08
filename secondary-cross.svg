@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+    <defs>
+        <filter id="pska6zm5ba">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.351157 0 0 0 0 0.428169 0 0 0 0 0.533343 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g filter="url(#pska6zm5ba)" transform="translate(-31 -156) translate(16 141)">
+                <g fill="#D8D8D8">
+                    <path d="M21.805 0.723H34.079V55.955999999999996H21.805z" transform="rotate(45 8.908 74.092)"/>
+                    <path d="M21.805 0.723L34.079 0.723 34.079 55.956 21.805 55.956z" transform="rotate(45 8.908 74.092) rotate(90 27.942 28.34)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
